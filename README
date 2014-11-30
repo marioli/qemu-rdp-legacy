@@ -1,3 +1,10 @@
 Read the documentation in qemu-doc.html or on http://wiki.qemu-project.org
 
 - QEMU team
+
+
+-----
+
+This is a fork for UI access via RDP protocol
+
+Have a look here: https://github.com/marioli/qemu/wiki
